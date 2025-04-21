@@ -1,21 +1,21 @@
-# 🎯 Tic Tac Toe Game
+# Tic Tac Toe Game
 
 A simple, interactive Tic Tac Toe game where players can enjoy the classic Xs and Os game in a web-based environment.
 
-## ✨ Features
+## Features
 
 - **Single-Player Mode:** Play against the computer with basic AI.
 - **User-Friendly Interface:** Clean and intuitive design for an engaging experience.
 - **Responsive Design:** Optimized for both mobile devices and desktop screens.
 - **🔄 Restart Option:** Easily reset the game to start a new match.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML** - For structuring the game layout
 - **CSS** - For styling the game board and interface
 - **JavaScript** - For implementing game logic and interactivity
 
-## 🚀 How to Run Locally
+## How to Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -34,11 +34,11 @@ A simple, interactive Tic Tac Toe game where players can enjoy the classic Xs an
    ```
 
 
-## 🖼️ Screenshot
+## Screenshot
 ![tic](https://github.com/user-attachments/assets/2418f230-d3f1-491b-b6e4-5b3cd33500a2)
 
 
-## 🎮 How to Play
+## How to Play
 
 1. Select an empty cell on the grid to place your mark (X or O).
 2. The game alternates turns between players.
