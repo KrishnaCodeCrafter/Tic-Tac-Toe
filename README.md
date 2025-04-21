@@ -7,7 +7,7 @@ A simple, interactive Tic Tac Toe game where players can enjoy the classic Xs an
 - **Single-Player Mode:** Play against the computer with basic AI.
 - **User-Friendly Interface:** Clean and intuitive design for an engaging experience.
 - **Responsive Design:** Optimized for both mobile devices and desktop screens.
-- **🔄 Restart Option:** Easily reset the game to start a new match.
+- **Restart Option:** Easily reset the game to start a new match.
 
 ## Technologies Used
 
